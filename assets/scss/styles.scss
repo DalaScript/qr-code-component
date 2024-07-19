@@ -38,8 +38,9 @@ main {
     align-items: center;
 
     .qr-code-card {
-        max-width: 320px;
+        margin: 152px 0 151px;
         padding: 16px 16px 40px;
+        max-width: 320px;
         border-radius: 20px;
 
         background-color: $white;
