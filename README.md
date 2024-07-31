@@ -50,17 +50,20 @@ First I want to finish the javascript course I'm taking on freecodecamp, I'm als
 - [YouTube](https://www.youtube.com/) - I'm always looking for news and listening to other developers, sharing their experiences so that I can see many different solutions to a problem.
 
 ## Author
+ 
+### Connect with Me (@DalaScript)
 
-### DalaScript Project Social links
+- [Instagram](https://www.instagram.com/DalaScript)
+- [YouTube](https://www.youtube.com/@DalaScript)
+- [TikTok](https://www.tiktok.com/@Dalascript)
 
-- Instagram - [@DalaScript](https://www.instagram.com/DalaScript)
-- YouTube - [@DalaScript](https://www.youtube.com/@DalaScript)
-- TikTok - [@DalaScript](https://www.tiktok.com/@Dalascript)
-- FrontendMentor - [@NikaDalalishvili](https://www.frontendmentor.io/profile/NikaDalalishvili)
+### Coding Profiles (@DalaScript)
 
-### Personal Social links
+- [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
+- [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
+- [GitHub](https://github.com/DalaScript)
 
-- Instagram - [@nika.dala](https://www.instagram.com/nika.dala/)
-- TikTok - [@nika.dala](https://www.tiktok.com/@nika.dala)
-- LinkedIn - [@nika.dala](https://www.linkedin.com/in/nikadala/)
-- UpWork - [@Nika Dalalishvili](https://www.upwork.com/freelancers/~01fcf99c6c9609988e)
+### Professional Links (@Nika Dalalishvili)
+
+- [LinkedIn](https://www.linkedin.com/in/nikadalalishvili/)
+- [UpWork](https://www.upwork.com/freelancers/~01fcf99c6c9609988e)
