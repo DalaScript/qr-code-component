@@ -51,19 +51,19 @@ First I want to finish the javascript course I'm taking on freecodecamp, I'm als
 
 ## Author
  
-### Connect with Me (@DalaScript)
+### Connect with Me
 
 - [Instagram](https://www.instagram.com/DalaScript)
 - [YouTube](https://www.youtube.com/@DalaScript)
 - [TikTok](https://www.tiktok.com/@Dalascript)
 
-### Coding Profiles (@DalaScript)
+### Coding Profiles
 
 - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
 - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
 - [GitHub](https://github.com/DalaScript)
 
-### Professional Links (@Nika Dalalishvili)
+### Professional Links
 
 - [LinkedIn](https://www.linkedin.com/in/nikadalalishvili/)
 - [UpWork](https://www.upwork.com/freelancers/~01fcf99c6c9609988e)
