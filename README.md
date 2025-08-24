@@ -1,4 +1,4 @@
-# QR code component solution | Frontend Mentor
+# QR Code Component | Frontend Mentor
 
 **Part 1**
 
@@ -65,7 +65,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 🔜 Next Project
 
-  - Drag and Drop | *[Project 16/20]* → [View Repository](https://github.com/DalaScript/drag-and-drop)
+  - Recipe Page | *Part 2* → [View Repository](https://github.com/DalaScript/recipe-page)
 
 ### 🗃️ Useful resources
 
