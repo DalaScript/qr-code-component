@@ -1,6 +1,6 @@
 # QR Code Component | Frontend Mentor
 
-**Part 1**
+**Challenge 1**
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -11,12 +11,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [🔎 Overview](#-overview)
   - [📸 Screenshot](#-screenshot)
   - [🔗 Links](#-links)
-- [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
-  - [🎓 What I learned](#-what-i-learned)
-  - [📈 Continued development](#-continued-development)
+- [🧠 My process](#-my-process)
   - [🔜 Next Project](#-next-project)
-  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -31,12 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 🔗 Links
 
-  - [🔴 Live Demo](https://github.com/DalaScript/qr-code-component)
-  - [🗂️ GitHub Repository](https://DalaScript.github.io/qr-code-component/)
-
----
-
-## 🧠 My process
+  - [🔴 Live Demo](https://DalaScript.github.io/qr-code-component/)
+  - [🗂️ GitHub Repository](https://github.com/DalaScript/qr-code-component)
 
 ### 🛠️ Built with
 
@@ -45,33 +38,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - Flexbox
   - Mobile-first workflow
   - bem - [Block Element Modifier](https://getbem.com/introduction/)
-  - scss - [Sassy Cascading Style Sheets](https://sass-lang.com/documentation/at-rules/control/for/)
 
-### 🎓 What I learned
+---
 
-  - Actually, nothing special, It was pretty easy for me.
-
-  > 🚀 For me, this challenge was more about **practice** and gaining additional **experience**,  
-  > rather than learning something entirely new.  
-  >  
-  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
-  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
-  >  
-  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
-
-### 📈 Continued development
-
-  - First I want to finish the javascript course I'm taking on freecodecamp, I'm also going through the learning path on Frontendmentor, and after that I want to focus more on React, Next.js and Node.js.
+## 🧠 My process
 
 ### 🔜 Next Project
 
-  - Recipe Page | *Part 2* → [View Repository](https://github.com/DalaScript/recipe-page)
-
-### 🗃️ Useful resources
-
-  - [ChatGPT](https://chatgpt.com/) - He is my hero, if I need something fast, if I can't understand something, or if I can't find it on the internet, I always ask him.
-  - [W3Schools](https://www.w3schools.com/) - This is my favorite documentation platform I've been using since I started programming, it's the best explained resource.
-  - [YouTube](https://www.youtube.com/) - I'm always looking for news and listening to other developers, sharing their experiences so that I can see many different solutions to a problem.
+  - Recipe Page | *Challenge 2* → [View Repository](https://github.com/DalaScript/recipe-page)
 
 ---
 

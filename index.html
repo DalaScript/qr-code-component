@@ -3,28 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+    <title>QR Code Component | Frontend Mentor</title>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
-
-    <title>QR code component | Frontend Mentor</title>
-    <link rel="stylesheet" href="./assets/styles/styles.css">
+    <!-- Styles -->
+    <!-- Base -->
+    <link rel="stylesheet" href="./assets/styles/base/variables.css" />
+    <link rel="stylesheet" href="./assets/styles/base/reset.css" />
+    <!-- Page Layout -->
+    <link rel="stylesheet" href="./assets/styles/layout/page-layout.css">
+    <!-- Components -->
+    <link rel="stylesheet" href="./assets/styles/components/card.css" />
 </head>
 <body>
     <main>
         <article class="card">
-            <img class="card__img" src="./assets/images/image-qr-code.png" width="288" height="288" alt="qr code">
-            <section class="card__content">
-                <h2 class="card__title">
+            <img class="card__img" src="./assets/images/image-qr-code.png" width="288" height="288" alt="QR code" /|>
+            <div class="card__content">
+                <h1 class="card__title">
                     Improve your front-end skills by building projects
-                </h2>
-                <p class="card__subtitle">
+                </h1>
+                <p class="card__description">
                     Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
                 </p>
-            </section>
+            </div>
         </article>
     </main>
 </body>

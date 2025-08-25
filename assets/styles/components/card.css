@@ -1,0 +1,39 @@
+/* || Card
+ *************************/
+.card {
+    padding: var(--space-sm) var(--space-sm) var(--space-lg);
+    max-width: 320px;
+    border-radius: 20px;
+
+    background-color: var(--white);
+    box-shadow: 0px 25px 25px #0000000c;
+}
+
+.card__img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+}
+
+.card__content {
+    margin-top: var(--space-md);
+    padding: 0 var(--space-sm);
+    text-align: center;
+}
+
+.card__title {
+    font-size: var(--fs-md);
+    color: var(--dark-blue);
+}
+
+.card__description {
+    margin-top: var(--space-sm);
+
+    font-size: var(--fs-sm);
+    font-weight: 400;
+    letter-spacing: 0.1875px;
+    line-height: 1.1875rem;
+
+    color: var(--grayish-blue);
+}
