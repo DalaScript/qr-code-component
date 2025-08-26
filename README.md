@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [🔗 Links](#-links)
   - [🛠️ Built with](#️-built-with)
 - [🧠 My process](#-my-process)
-  - [🔜 Next Project](#-next-project)
+  - [🔜 Next Challenge](#-next-challenge)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -43,7 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## 🧠 My process
 
-### 🔜 Next Project
+### 🔜 Next Challenge
 
   - Recipe Page | *Challenge 2* → [View Repository](https://github.com/DalaScript/recipe-page)
 
