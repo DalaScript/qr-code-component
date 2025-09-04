@@ -1,0 +1,47 @@
+/* || Card Component
+ *************************/
+.card {
+    padding: $space-sm $space-sm $space-lg;
+    max-width: 320px;
+    border-radius: 20px;
+
+    background-color: $white;
+    box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+
+    /* || Image
+     *************************/
+    &__img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+        display: block;
+    }
+
+    /* || Text Content
+     *************************/
+    &__content {
+        margin-top: $space-md;
+        padding: 0 $space-sm;
+        text-align: center;
+    }
+
+    /* || Title
+     *************************/
+    &__title {
+        font-size: $fs-md;
+        color: $dark-blue;
+    }
+
+    /* || Description
+     *************************/
+    &__description {
+        margin-top: $space-sm;
+
+        font-size: $fs-sm;
+        font-weight: 400;
+        letter-spacing: 0.1875px;
+        line-height: 1.1875rem;
+
+        color: $grayish-blue;
+    }
+}

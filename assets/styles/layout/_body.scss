@@ -1,0 +1,16 @@
+/* || Body Element
+ *************************/
+body {
+    background-color: $light-gray;
+    font-family: $outfit;
+}
+
+/* || Main Element
+ *************************/
+main {
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
