@@ -28,16 +28,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 🔗 Links
 
-  - [🔴 Live Demo](https://DalaScript.github.io/qr-code-component/)
-  - [🗂️ GitHub Repository](https://github.com/DalaScript/qr-code-component)
+- [🔴 Live Demo](https://DalaScript.github.io/qr-code-component/)
+- [🗂️ GitHub Repository](https://github.com/DalaScript/qr-code-component)
 
 ### 🛠️ Built with
 
-  - HTML5
-  - CSS3
-  - Flexbox
-  - Mobile-first workflow
-  - bem - [Block Element Modifier](https://getbem.com/introduction/)
+- HTML5
+- CSS3
+- Flexbox
+- Mobile-first workflow
+- bem - [Block Element Modifier](https://getbem.com/introduction/)
 
 ---
 
@@ -45,7 +45,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 🔜 Next Challenge
 
-  - Recipe Page | *Challenge 2* → [View Repository](https://github.com/DalaScript/recipe-page)
+- Recipe Page | *Challenge 2* → [View Repository](https://github.com/DalaScript/recipe-page)
 
 ---
 
@@ -53,13 +53,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 🌐 Connect with Me
 
-  - [Instagram](https://www.instagram.com/DalaScript)
-  - [YouTube](https://www.youtube.com/@DalaScript)
+- [Instagram](https://www.instagram.com/DalaScript)
+- [YouTube](https://www.youtube.com/@DalaScript)
 
 ### 💻 Coding Profiles
 
-  - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
-  - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
-  - [GitHub](https://github.com/DalaScript)
+- [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
+- [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
+- [GitHub](https://github.com/DalaScript)
 
 *🙌 Thanks for checking out my project! More coming soon. Stay tuned 🚀*
