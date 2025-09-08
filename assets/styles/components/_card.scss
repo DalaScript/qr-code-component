@@ -6,21 +6,21 @@
     border-radius: 1.25rem;
 
     background-color: $white;
-    box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+    box-shadow: $shadow-light;
 
     /* || Image
      *************************/
     &__img {
         width: 100%;
         height: auto;
-        border-radius: 10px;
+        border-radius: 0.625rem;
         display: block;
     }
 
     /* || Text Content
      *************************/
     &__content {
-        margin-top: $space-md;
+        margin-block-start: $space-md;
         padding: 0 $space-sm;
         text-align: center;
     }
@@ -30,7 +30,7 @@
     &__title {
         font-size: $fs-md;
         font-weight: 700;
-        line-height: 1.75rem;
+        line-height: 1.75;
         color: $dark-blue;
     }
 
@@ -41,8 +41,8 @@
 
         font-size: $fs-sm;
         font-weight: 400;
-        letter-spacing: 0.1875px;
-        line-height: 1.1875rem;
+        line-height: 1.1875;
+        letter-spacing: 0.0125em;
 
         color: $grayish-blue;
     }

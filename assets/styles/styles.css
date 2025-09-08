@@ -27,6 +27,9 @@
   *************************/
   --fs-sm: 0.9375rem;
   --fs-md: 1.375rem;
+  /* || Shadow
+  *************************/
+  --shadow-light: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
 }
 
 /* || SCSS Aliases
@@ -66,7 +69,7 @@ main {
   max-width: 20rem;
   border-radius: 1.25rem;
   background-color: var(--white);
-  box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+  box-shadow: var(--shadow-light);
   /* || Image
    *************************/
   /* || Text Content
@@ -79,25 +82,25 @@ main {
 .card__img {
   width: 100%;
   height: auto;
-  border-radius: 10px;
+  border-radius: 0.625rem;
   display: block;
 }
 .card__content {
-  margin-top: var(--space-md);
+  margin-block-start: var(--space-md);
   padding: 0 var(--space-sm);
   text-align: center;
 }
 .card__title {
   font-size: var(--fs-md);
   font-weight: 700;
-  line-height: 1.75rem;
+  line-height: 1.75;
   color: var(--dark-blue);
 }
 .card__description {
   margin-block-start: var(--space-sm);
   font-size: var(--fs-sm);
   font-weight: 400;
-  letter-spacing: 0.1875px;
-  line-height: 1.1875rem;
+  line-height: 1.1875;
+  letter-spacing: 0.0125em;
   color: var(--grayish-blue);
 }

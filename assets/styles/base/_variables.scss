@@ -27,6 +27,10 @@
     *************************/
     --fs-sm: 0.9375rem;
     --fs-md: 1.375rem;
+
+    /* || Shadow
+    *************************/
+    --shadow-light: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
 }
 
 /* || SCSS Aliases
@@ -45,3 +49,4 @@ $space-lg: var(--space-lg);
 
 $fs-sm: var(--fs-sm);
 $fs-md: var(--fs-md);
+$shadow-light: var(--shadow-light);
