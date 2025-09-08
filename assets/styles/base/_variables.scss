@@ -4,25 +4,44 @@
 
 /* || Global Variables
  *************************/
-/* || Colors
- *************************/
-$white: #ffffff;
-$light-gray: #d6e2f0;
-$grayish-blue: #7b879d;
-$dark-blue: #1f3251;
+:root {
+    /* || Colors
+     *************************/
+    --white: #ffffff;
+    --light-gray: #d6e2f0;
+    --grayish-blue: #7b879d;
+    --dark-blue: #1f3251;
 
-/* || Fonts
- *************************/
-$outfit: "Outfit", sans-serif;
+    /* || Fonts
+    *************************/
+    --outfit: "Outfit", sans-serif;
 
-/* || Spacing
- *************************/
-$space-xs: 0.5rem;
-$space-sm: 1rem;
-$space-md: 1.5rem;
-$space-lg: 2.5rem;
+    /* || Spacing
+    *************************/
+    --space-xs: 0.5rem;
+    --space-sm: 1rem;
+    --space-md: 1.5rem;
+    --space-lg: 2.5rem;
 
-/* || Font sizes
+    /* || Font sizes
+    *************************/
+    --fs-sm: 0.9375rem;
+    --fs-md: 1.375rem;
+}
+
+/* || SCSS Aliases
  *************************/
-$fs-sm: 0.9375rem;
-$fs-md: 1.375rem;
+$white: var(--white);
+$light-gray: var(--light-gray);
+$grayish-blue: var(--grayish-blue);
+$dark-blue: var(--dark-blue);
+
+$outfit: var(--outfit);
+
+$space-xs: var(--space-xs);
+$space-sm: var(--space-sm);
+$space-md: var(--space-md);
+$space-lg: var(--space-lg);
+
+$fs-sm: var(--fs-sm);
+$fs-md: var(--fs-md);
