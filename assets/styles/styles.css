@@ -1,7 +1,3 @@
-/* || Fonts Imports ('Outfit')
- *************************/
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
-
 /* || Global Variables
  *************************/
 :root {
@@ -51,7 +47,9 @@ body {
 /* || Main Element
  *************************/
 main {
+  padding: 1.5rem;
   min-height: 100vh;
+
   display: flex;
   justify-content: center;
   align-items: center;
@@ -61,6 +59,7 @@ main {
  *************************/
 .card {
   padding: var(--space-sm) var(--space-sm) var(--space-lg);
+  width: 100%;
   max-width: 20rem;
   border-radius: 1.25rem;
   background-color: var(--white);
