@@ -9,6 +9,11 @@
 
     <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
 
+    <!-- Font ('Outfit') -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+
     <title>QR Code Component | Frontend Mentor</title>
 
     <!-- Styles -->
@@ -16,10 +21,27 @@
 </head>
 
 <body>
+    <main class="page">
+        <article class="card">
+            <figure class="card__figure">
+                <a class="card__link" href="https://www.frontendmentor.io" target="_blank" rel="noopener noreferrer"
+                    aria-label="Visit Frontend Mentor (opens in a new tab)">
+                    <img class="card__image" src="./assets/images/image-qr-code.png"
+                        alt="QR code to visit Frontend Mentor" width="288" height="288" loading="lazy" decoding="async">
+                </a>
 
-    Improve your front-end skills by building projects
+                <figcaption class="card__content">
+                    <h1 class="card__title">
+                        Improve your front-end skills by building projects
+                    </h1>
 
-    Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+                    <p class="card__description">
+                        Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+                    </p>
+                </figcaption>
+            </figure>
+        </article>
+    </main>
 </body>
 
 </html>
